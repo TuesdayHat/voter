@@ -1,7 +1,9 @@
 .voters {
   display: none;
+  color: blue;
 }
 
 .minors {
   display: none;
+  color: red;
 }
